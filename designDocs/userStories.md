@@ -57,3 +57,11 @@ I want my speedrun attempts to be uploaded to speedrun.com when I enter them.
 ### Save speedrun.com profile
 
 I want my game completion archive profile to save the login information for speedrun.com so I don't have to enter it more than once.
+
+### View others archives
+
+As an unregistered or registered user I want to be able to see what the application has to offer.
+
+### Search for other's archives
+
+As an unregistered or registered user I want to be able to look for specific user's archives if possible.
