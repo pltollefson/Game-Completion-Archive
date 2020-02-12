@@ -2,6 +2,14 @@
 
 ## MVP
 
+### View others archives
+
+As an unregistered or registered user I want to be able to see what the application has to offer.
+
+### Search for other's archives
+
+As an unregistered or registered user I want to be able to look for specific user's archives if possible.
+
 ### Create a profile
 
 As a new user I want to be able to create an account to have my own game completion archive.
@@ -58,10 +66,6 @@ I want my speedrun attempts to be uploaded to speedrun.com when I enter them.
 
 I want my game completion archive profile to save the login information for speedrun.com so I don't have to enter it more than once.
 
-### View others archives
+### Sort search results
 
-As an unregistered or registered user I want to be able to see what the application has to offer.
-
-### Search for other's archives
-
-As an unregistered or registered user I want to be able to look for specific user's archives if possible.
+As a user of any kind I want to be able to sort my search results by how many games they own, how many playthroughs they completed, or by username.
