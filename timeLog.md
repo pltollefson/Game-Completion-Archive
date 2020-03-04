@@ -8,4 +8,7 @@
 |2/9/2020|Week 3 Exercise|~4||
 |2/11/2020|Preparing for Checkpoint 1|~4|Creating design document directory, adding problem statement, creating user stories, and updating time log|
 |2/18/2020|Week 4 Exercise|~4||
-|2/25/2020|Week 5 Exercise|~3|Also added notes on Matt's presentaion|
+|2/25/2020|Week 5 Exercise|~3|Also added notes on Matt's presentation|
+|3/2/2020|Code 1 Reviews|~2||
+|2/25/2020|Week 6 Exercise|~2|Also added notes on Jeanne and Katya's presentations|
+
