@@ -1,0 +1,62 @@
+[ERROR] 2020-03-03 20:02:40.020 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:02:40.337 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:02:40.749 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:02:40.849 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:02:40.914 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:06:51.420 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:06:51.809 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:06:52.339 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:06:52.451 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:06:52.573 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:08:44.881 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:08:45.146 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:08:45.568 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:08:45.709 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:08:45.808 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:09:56.112 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:09:56.639 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:09:57.091 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:09:57.415 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:09:57.524 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:14:12.032 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:14:12.391 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[DEBUG] 2020-03-03 20:14:12.622 [main] UserDao - The list of users []
+[ERROR] 2020-03-03 20:14:12.698 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:14:12.788 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[ERROR] 2020-03-03 20:14:12.851 [main] Database - java.sql.SQLSyntaxErrorException: Table 'GCA.user' doesn't exist
+[DEBUG] 2020-03-03 20:15:57.267 [main] UserDao - The list of users [edu.matc.entity.User@7f27f59b, edu.matc.entity.User@1c98b4eb, edu.matc.entity.User@45801322]
+[DEBUG] 2020-03-03 20:16:46.471 [main] UserDao - The list of users [edu.matc.entity.User@10f405ff, edu.matc.entity.User@7f27f59b, edu.matc.entity.User@1c98b4eb]
+[DEBUG] 2020-03-03 20:17:27.549 [main] UserDao - The list of users [edu.matc.entity.User@7f27f59b, edu.matc.entity.User@1c98b4eb, edu.matc.entity.User@45801322]
+[DEBUG] 2020-03-03 20:17:52.472 [main] UserDao - The list of users [edu.matc.entity.User@7f27f59b, edu.matc.entity.User@1c98b4eb, edu.matc.entity.User@45801322]
+[DEBUG] 2020-03-03 20:22:37.892 [main] UserDao - The list of users [edu.matc.entity.User@66f5b8fe, edu.matc.entity.User@233f52f8, edu.matc.entity.User@69ec93c2]
+[DEBUG] 2020-03-03 20:26:13.837 [main] UserDao - The list of users [edu.matc.entity.User@66f5b8fe, edu.matc.entity.User@233f52f8, edu.matc.entity.User@69ec93c2]
+[INFO ] 2020-03-03 20:26:13.897 [main] UserDao - Session: SessionImpl(741095751<open>)
+[INFO ] 2020-03-03 20:26:13.898 [main] UserDao - Transaction: org.hibernate.engine.transaction.internal.TransactionImpl@4a62062a
+[DEBUG] 2020-03-03 20:28:58.370 [main] UserDao - The list of users [edu.matc.entity.User@5a4d4f9c, edu.matc.entity.User@153d6d74, edu.matc.entity.User@6c9b44bf]
+[INFO ] 2020-03-03 20:28:58.454 [main] UserDao - Session: SessionImpl(672869885<open>)
+[INFO ] 2020-03-03 20:28:58.454 [main] UserDao - Transaction: org.hibernate.engine.transaction.internal.TransactionImpl@492be039
+[DEBUG] 2020-03-03 20:30:03.313 [main] UserDao - The list of users [edu.matc.entity.User@19fec3d6, edu.matc.entity.User@5287ba5f, edu.matc.entity.User@b768a65]
+[INFO ] 2020-03-03 20:30:03.375 [main] UserDao - Session: SessionImpl(1407009494<open>)
+[INFO ] 2020-03-03 20:30:03.376 [main] UserDao - Transaction: org.hibernate.engine.transaction.internal.TransactionImpl@1e76afeb
+[INFO ] 2020-03-03 20:30:03.376 [main] UserDao - Id before: 0
+[DEBUG] 2020-03-03 20:31:38.166 [main] UserDao - The list of users [edu.matc.entity.User@66f5b8fe, edu.matc.entity.User@233f52f8, edu.matc.entity.User@69ec93c2]
+[INFO ] 2020-03-03 20:31:38.242 [main] UserDao - Session: SessionImpl(741095751<open>)
+[INFO ] 2020-03-03 20:31:38.243 [main] UserDao - Transaction: org.hibernate.engine.transaction.internal.TransactionImpl@4a62062a
+[INFO ] 2020-03-03 20:31:38.244 [main] UserDao - Id before: 0
+[INFO ] 2020-03-03 20:32:42.414 [main] UserDao - Session: SessionImpl(370055648<open>)
+[INFO ] 2020-03-03 20:32:42.416 [main] UserDao - Transaction: org.hibernate.engine.transaction.internal.TransactionImpl@1c628f6a
+[INFO ] 2020-03-03 20:32:42.416 [main] UserDao - Id before: 0
+[DEBUG] 2020-03-03 20:33:12.002 [main] UserDao - The list of users [edu.matc.entity.User@b55f5b7, edu.matc.entity.User@2aa6bbad, edu.matc.entity.User@6b2ef50e]
+[INFO ] 2020-03-03 20:33:12.059 [main] UserDao - Session: SessionImpl(864469510<open>)
+[INFO ] 2020-03-03 20:33:12.062 [main] UserDao - Transaction: org.hibernate.engine.transaction.internal.TransactionImpl@1322b575
+[INFO ] 2020-03-03 20:33:12.062 [main] UserDao - Id before: 0
+[DEBUG] 2020-03-03 20:36:17.984 [main] UserDao - The list of users [edu.matc.entity.User@66f5b8fe, edu.matc.entity.User@233f52f8, edu.matc.entity.User@69ec93c2]
+[INFO ] 2020-03-03 20:36:18.062 [main] UserDao - Session: SessionImpl(741095751<open>)
+[INFO ] 2020-03-03 20:36:18.062 [main] UserDao - Transaction: org.hibernate.engine.transaction.internal.TransactionImpl@4a62062a
+[INFO ] 2020-03-03 20:36:18.063 [main] UserDao - Id before: 0
+[DEBUG] 2020-03-03 20:39:15.043 [main] UserDao - The list of users [edu.matc.entity.User@66f5b8fe, edu.matc.entity.User@233f52f8, edu.matc.entity.User@69ec93c2]
+[DEBUG] 2020-03-03 20:46:30.788 [main] UserDao - The list of users [edu.matc.entity.User@66f5b8fe, edu.matc.entity.User@233f52f8, edu.matc.entity.User@69ec93c2]
+[DEBUG] 2020-03-03 20:47:35.640 [main] UserDao - The list of users [edu.matc.entity.User@2aa14ae6, edu.matc.entity.User@4be490da, edu.matc.entity.User@4168f3d9]
+[DEBUG] 2020-03-03 20:49:40.445 [main] UserDao - The list of users [edu.matc.entity.User@1b37fbec, edu.matc.entity.User@4a216eb4, edu.matc.entity.User@bb3ecfe]
+[DEBUG] 2020-03-03 20:51:45.845 [main] UserDao - The list of users [edu.matc.entity.User@11c88cca, edu.matc.entity.User@1b37fbec, edu.matc.entity.User@4a216eb4]
+[DEBUG] 2020-03-03 21:02:48.349 [main] UserDao - The list of users [edu.matc.entity.User@5ec88f9e, edu.matc.entity.User@7a04f730, edu.matc.entity.User@3b11620a]
